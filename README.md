@@ -1,6 +1,9 @@
 # Strategic Reversi AI Game Engine: Algorithmic Decision Architecture
 
-*C++, OOP, Minimax Search, Alpha-Beta Pruning, Game Trees*
+![OOP](https://img.shields.io/badge/OOP-Paradigms-34495e)
+![Minimax Search](https://img.shields.io/badge/Minimax_Search-Game_AI-27ae60)
+![Alpha-Beta Pruning](https://img.shields.io/badge/Alpha--Beta-Pruning-9b59b6)
+![Game Trees](https://img.shields.io/badge/Game_Trees-Architectures-2e7d32)
 
 Built a high-performance **Reversi AI engine** in **C++** utilizing recursive **Minimax decision trees** and **Alpha-Beta pruning** to aggressively cut redundant branches and accelerate optimal move selection. Implemented robust object-oriented game mechanics, including **8-way directional flips** and move validation.
 
